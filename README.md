@@ -26,11 +26,11 @@ _Have another more specific idea? You may want to check out our vibrant collecti
 1.  **Create env file.**
 
     Navigate into your new site's directory and create a new .env file :
-    `
+    ```shell
       SASS_PATH = styles/
       DATOCMS_PROJECT_ID = REPLACE_WITH_YOUR_DATOCMS_PROJECT_ID
       DATO_API_TOKEN = REPLACE_WITH_YOUR_DATO_API_TOKEN
-    `
+    ```shell
 
 2.  **Start developing.**
 
