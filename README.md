@@ -30,7 +30,7 @@ _Have another more specific idea? You may want to check out our vibrant collecti
       SASS_PATH = styles/
       DATOCMS_PROJECT_ID = REPLACE_WITH_YOUR_DATOCMS_PROJECT_ID
       DATO_API_TOKEN = REPLACE_WITH_YOUR_DATO_API_TOKEN
-    ```shell
+    ```
 
 2.  **Start developing.**
 
