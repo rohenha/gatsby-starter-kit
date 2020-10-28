@@ -15,7 +15,7 @@ _Have another more specific idea? You may want to check out our vibrant collecti
 ## 📲 Technologies
 
   - Typescript with his config
-  - SASS (with global css and specific css)
+  - SASS (with global css and specific css with modules)
   - Tests JEST (In Progress)
   - DatoCMS
   - Prettier
